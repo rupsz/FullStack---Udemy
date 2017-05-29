@@ -1,0 +1,44 @@
+
+h1{
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+.art{
+  margin: auto;
+}
+
+#first{
+  background-color: #247BA0;
+  border: 10px solid white;
+  width: 100px;
+  height: 300px;
+}
+
+#second{
+  background-color: #70C1B3;
+  border: 10px solid white;
+  width: 100px;
+  height: 300px;
+}
+
+#third{
+  background-color: #B2DBBF;
+  border: 10px solid white;
+  width: 100px;
+  height: 300px;
+}
+
+#fourth{
+  background-color: #F3FFBD;
+  border: 10px solid white;
+  width: 100px;
+  height: 300px;
+}
+
+#fifth{
+  background-color: #FF1654;
+  border: 10px solid white;
+  width: 100px;
+  height: 300px;
+}
